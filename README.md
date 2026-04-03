@@ -15,3 +15,6 @@
 • ⚡ Fun fact: I enjoy building automation tools
 
 
+### 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AVINASSH_VELMURUGAN?theme=dark&font=Baloo&ext=activity)
