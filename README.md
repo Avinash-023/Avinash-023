@@ -17,4 +17,4 @@
 
 ### 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/AVINASSH_VELMURUGAN?theme=dark&font=Baloo&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AVINASSH_VELMURUGAN?theme=dark&font=Poppins)
